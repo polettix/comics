@@ -4,7 +4,7 @@
   <title><![CDATA[polettix@github]]></title>
   <link href="http://polettix.github.io/atom.xml" rel="self"/>
   <link href="http://polettix.github.io/"/>
-  <updated>2014-06-27T22:11:49+02:00</updated>
+  <updated>2014-06-28T18:48:02+02:00</updated>
   <id>http://polettix.github.io/</id>
   <author>
     <name><![CDATA[Flavio Poletti]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[vendita]]></title>
+    <link href="http://polettix.github.io/blog/2014/06/28/vendita/"/>
+    <updated>2014-06-28T12:41:34+02:00</updated>
+    <id>http://polettix.github.io/blog/2014/06/28/vendita</id>
+    <content type="html"><![CDATA[<p><img src="http://polettix.github.io/images/2014-06-28-vendita/vendita.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Si parte!]]></title>
