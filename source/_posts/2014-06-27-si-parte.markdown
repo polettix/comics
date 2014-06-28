@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Si parte!"
+date: 2014-06-27 12:01:00 +0200
+comments: true
+categories: 
+---
+{% img /images/2014-06-27-si-parte/fumetto-02.jpg %}
