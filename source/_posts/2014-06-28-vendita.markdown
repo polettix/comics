@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vendita"
+date: 2014-06-28 12:41:34 +0200
+comments: true
+categories: 
+---
+{% img /images/2014-06-28-vendita/vendita.png %}
+
+... con un abbraccio a chi ci si riconosce!!!
