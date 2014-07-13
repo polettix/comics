@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://polettix.github.io/blog/2014/07/13/il-gelato/</loc>
+    <lastmod>2014-07-13T02:22:26+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://polettix.github.io/blog/2014/07/13/la-moglie/</loc>
     <lastmod>2014-07-13T01:52:40+02:00</lastmod>
     <priority>0.8</priority>
@@ -29,14 +35,14 @@
   
   <url>
     <loc>http://polettix.github.io/blog/archives/</loc>
-    <lastmod>2014-07-13T02:01:07+02:00</lastmod>
+    <lastmod>2014-07-13T06:45:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://polettix.github.io/</loc>
-    <lastmod>2014-07-13T02:01:07+02:00</lastmod>
+    <lastmod>2014-07-13T06:45:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

@@ -4,7 +4,7 @@
   <title><![CDATA[polettix@github]]></title>
   <link href="http://polettix.github.io/atom.xml" rel="self"/>
   <link href="http://polettix.github.io/"/>
-  <updated>2014-07-13T02:01:07+02:00</updated>
+  <updated>2014-07-13T06:45:55+02:00</updated>
   <id>http://polettix.github.io/</id>
   <author>
     <name><![CDATA[Flavio Poletti]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Il gelato]]></title>
+    <link href="http://polettix.github.io/blog/2014/07/13/il-gelato/"/>
+    <updated>2014-07-13T02:22:26+02:00</updated>
+    <id>http://polettix.github.io/blog/2014/07/13/il-gelato</id>
+    <content type="html"><![CDATA[<p><img src="http://polettix.github.io/images/2014-07-13-il-gelato/gelato-1.png">
+<img src="http://polettix.github.io/images/2014-07-13-il-gelato/gelato-2.png">
+<img src="http://polettix.github.io/images/2014-07-13-il-gelato/gelato-3.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[La moglie]]></title>
