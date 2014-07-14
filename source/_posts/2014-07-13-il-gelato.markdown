@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Il gelato"
+date: 2014-07-13 02:22:26 +0200
+comments: true
+categories: 
+---
+{% img /images/2014-07-13-il-gelato/gelato-1.png %}
+{% img /images/2014-07-13-il-gelato/gelato-2.png %}
+{% img /images/2014-07-13-il-gelato/gelato-3.png %}
