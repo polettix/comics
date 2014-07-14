@@ -9,6 +9,9 @@ author: Flavio Poletti
 simple_search: https://www.google.com/search
 description: random notes, some comics (hopefully), possibly Perl!
 
+# Mechanism for hiding draft posts - put them 1000 years ahead!
+future: true
+
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
