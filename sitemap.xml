@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://polettix.github.io/blog/2014/10/17/il-portiere/</loc>
+    <lastmod>2014-10-17T23:20:41+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://polettix.github.io/blog/2014/08/12/il-rompicoglioni/</loc>
     <lastmod>2014-08-12T01:03:18+02:00</lastmod>
     <priority>0.8</priority>
@@ -53,14 +59,14 @@
   
   <url>
     <loc>http://polettix.github.io/blog/archives/</loc>
-    <lastmod>2014-08-12T01:20:33+02:00</lastmod>
+    <lastmod>2014-10-17T23:31:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://polettix.github.io/</loc>
-    <lastmod>2014-08-12T01:20:33+02:00</lastmod>
+    <lastmod>2014-10-17T23:31:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
