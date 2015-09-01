@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://comics.polettix.it//sitemap.xml 
+Sitemap: http://polettix.github.io/comics/sitemap.xml 
