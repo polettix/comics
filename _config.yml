@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://comics.polettix.it/
-title: polettix@github
-subtitle: random notes, hopefully comics
+title: comics@polettix
+subtitle: comics... hopefully
 author: Flavio Poletti
 simple_search: https://www.google.com/search
-description: random notes, some comics (hopefully), possibly Perl!
+description: some comics!
 
 # Mechanism for hiding draft posts - put them 1000 years ahead!
 future: true
