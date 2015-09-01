@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[polettix@github]]></title>
+  <title><![CDATA[comics@polettix]]></title>
   <link href="http://comics.polettix.it//atom.xml" rel="self"/>
   <link href="http://comics.polettix.it//"/>
-  <updated>2015-09-01T11:25:55+02:00</updated>
+  <updated>2015-09-01T11:46:04+02:00</updated>
   <id>http://comics.polettix.it//</id>
   <author>
     <name><![CDATA[Flavio Poletti]]></name>
