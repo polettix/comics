@@ -4,7 +4,7 @@
   <title><![CDATA[comics@polettix]]></title>
   <link href="http://polettix.github.io/comics/atom.xml" rel="self"/>
   <link href="http://polettix.github.io/comics/"/>
-  <updated>2015-09-01T12:05:51+02:00</updated>
+  <updated>2016-01-07T02:27:59+01:00</updated>
   <id>http://polettix.github.io/comics/</id>
   <author>
     <name><![CDATA[Flavio Poletti]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Geografia]]></title>
+    <link href="http://polettix.github.io/comics/blog/2016/01/07/geografia/"/>
+    <updated>2016-01-07T02:23:05+01:00</updated>
+    <id>http://polettix.github.io/comics/blog/2016/01/07/geografia</id>
+    <content type="html"><![CDATA[<p><img src="http://polettix.github.io/comics/images/2016-01-07-geografia/geografia.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Che voleva il portiere?]]></title>
